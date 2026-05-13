@@ -1,11 +1,9 @@
 streamlit
+pandas
+numpy
+matplotlib
 xarray
 netCDF4
-h5netcdf
-numpy
-pandas
 plotly
-scipy
 scikit-learn
-matplotlib
-
+openpyxl
